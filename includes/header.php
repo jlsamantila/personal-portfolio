@@ -13,6 +13,7 @@
     
     <!-- Styles -->
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/hero-background.css">
     
     <!-- Theme Color -->
     <meta name="theme-color" content="#0a0a0a">
@@ -35,3 +36,7 @@
             </ul>
         </nav>
     </header>
+    
+    <!-- Scripts -->
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/hero-particles.js"></script>
